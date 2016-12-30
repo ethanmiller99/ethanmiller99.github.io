@@ -672,7 +672,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "SMALL": {
               "color": "#232323"
@@ -680,14 +680,14 @@
           },
           "_anchor": "form1-h",
           "_params": {
-            "labelsColor": "#ffffff",
+            "labelsColor": "#000000",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1446506123797-f3e3eb4c092d-2000x1333-63.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
